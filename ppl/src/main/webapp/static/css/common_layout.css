@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+@font-face {
+	font-family: "BMDOHYEON";
+	src: url("/ppl/static/font/BMDOHYEON_ttf.ttf");
+	font-family: "BMHANNA";
+	src: url("/ppl/static/font/BMHANNA_11yrs_ttf.ttf");
+	font-family: "BMYEONSUNG";
+	src: url("/ppl/static/font/BMYEONSUNG_ttf.ttf");
+	font-family: "PIC";
+	src: url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+}
+
+* {
+	font-family: "Nanum Gothic", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Nanum Gothic", sans-serif;
+}
